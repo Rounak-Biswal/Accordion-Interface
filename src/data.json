@@ -1,0 +1,17 @@
+[
+    {
+        "id":"1",
+        "question":"what you're name ?",
+        "answer":"Rounak"
+    },
+    {
+        "id":"2",
+        "question":"how old are ya ?",
+        "answer":"im 20"
+    },
+    {
+        "id":"3",
+        "question":"where do ya live ?",
+        "answer":"Metrocity apartments"
+    }
+]

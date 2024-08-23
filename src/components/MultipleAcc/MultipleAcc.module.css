@@ -1,0 +1,12 @@
+.title{
+    display: inline-block;
+}
+.showBtn{
+    cursor: pointer;
+    padding: 15px;
+    font-weight: bold;
+}
+.multiAcc{
+    width: 50%;
+    background-color:bisque;
+}
